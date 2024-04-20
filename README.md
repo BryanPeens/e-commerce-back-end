@@ -7,6 +7,7 @@ This application provides an Express API for managing products, categories, and 
 
 ### Links
 * Link to GitHub [repository](https://github.com/BryanPeens/e-commerce-back-end)
+* Express API demo [link](https://app.screencastify.com/v3/watch/kgtuybqkbdXIO0m7gZAH)
 
 ## Table of Contents
 1. [Installation Instructions](#installation-instructions)
